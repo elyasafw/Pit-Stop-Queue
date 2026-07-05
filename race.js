@@ -1,6 +1,4 @@
-import { data } from "./serverData.js";
-
-export function raceData() {
+export function raceData(data) {
     let raceData = {
         raceName: data.raceName,
         currentLap: data.currentLap,
