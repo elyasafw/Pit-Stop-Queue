@@ -1,0 +1,21 @@
+{
+  "name": "pit-stop-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyasafw/Pit-Stop-Queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/elyasafw/Pit-Stop-Queue/issues"
+  },
+  "homepage": "https://github.com/elyasafw/Pit-Stop-Queue#readme"
+}
